@@ -1,14 +1,4 @@
-﻿ Installation:
-   1. install ollama + model
-   2. be sure to python -m venv
-   3. clone repository
-   4. pip install -r requirements.txt
-
- Usage Examples:<br />
-   python dialog_parser.py book.txt <br />
-   python dialog_parser.py book.txt -m mistral -o output.json<br />
-
- Features:<br />
+﻿ Features:<br />
     - Automatic dialogue detection using quotation marks and dialogue patterns<br />
     - Context-aware speaker identification using surrounding text<br />
     - Confidence scoring for each identification<br />
@@ -28,3 +18,14 @@
     - Processing time depends on book length and model speed<br />
     - Accuracy varies with text quality and dialogue complexity<br />
     - May struggle with books that have minimal dialogue tags<br />
+
+ Installation:
+   1. install ollama + model
+   2. be sure to python -m venv
+   3. clone repository
+   4. pip install -r requirements.txt
+
+ Usage Examples:<br />
+   python dialog_parser.py book.txt <br />
+   python dialog_parser.py book.txt -m mistral -o output.json<br />
+
