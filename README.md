@@ -1,4 +1,4 @@
-warning: (currently untested lol)
+warning: (currently untested lol) - I'll switch the default branch once someone submits a welltested update, assuming they beet me to it (I'm busy!) preferabbly with a hook to openai.fm
 
 ﻿ Features:<br />
     - Automatic dialogue detection using quotation marks and dialogue patterns<br />
