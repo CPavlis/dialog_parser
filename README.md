@@ -1,3 +1,5 @@
+warning: (currently untested lol)
+
 ﻿ Features:<br />
     - Automatic dialogue detection using quotation marks and dialogue patterns<br />
     - Context-aware speaker identification using surrounding text<br />
