@@ -1,0 +1,39 @@
+{
+  "default": {
+    "voice": "alloy",
+    "prompt": "Speak in a clear, neutral narrative voice.",
+    "speed": 1.0
+  },
+  "character_voices": [
+    {
+      "character": "ALICE",
+      "voice": "nova",
+      "prompt": "Speak as a young, curious woman with enthusiasm and wonder. Use a slightly higher pitch and animated delivery.",
+      "speed": 1.1
+    },
+    {
+      "character": "BOB",
+      "voice": "onyx",
+      "prompt": "Speak as a mature, thoughtful man with a deep, calm voice. Use measured pacing and authoritative tone.",
+      "speed": 0.9
+    },
+    {
+      "character": "NARRATOR",
+      "voice": "echo",
+      "prompt": "Speak as an omniscient storyteller with a warm, engaging voice. Use clear diction and appropriate dramatic pauses.",
+      "speed": 1.0
+    },
+    {
+      "character": "CHILD",
+      "voice": "shimmer",
+      "prompt": "Speak as a young child with innocence and excitement. Use a higher pitch and playful delivery.",
+      "speed": 1.2
+    },
+    {
+      "character": "VILLAIN",
+      "voice": "fable",
+      "prompt": "Speak with a menacing, calculating tone. Use a lower register and deliberate pacing to convey threat.",
+      "speed": 0.8
+    }
+  ]
+}
