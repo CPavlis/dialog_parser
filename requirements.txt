@@ -1,7 +1,5 @@
 ﻿requests>=2.25.0
 argparse
-json
-re
 typing
 dataclasses
 pydub
